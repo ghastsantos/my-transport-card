@@ -18,7 +18,7 @@ This project was developed using the following technologies:
 
 ## 💻 Project
 
-BikePy is an interface simulating a transport card.
+My Transport Card is an interface simulating a transport card.
 
 - [Access the code: ](https://github.com/ghastsantos/my-transport-card/blob/master/PJBL1/MyTransportCard.py)
 
